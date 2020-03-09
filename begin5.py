@@ -1,0 +1,5 @@
+a=input("Write a: ")
+V=(float(a)*float(a)*float(a))
+S=(6*(float(a)*float(a)))
+print(V)
+print(S)
