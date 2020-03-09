@@ -1,0 +1,6 @@
+a=input("Write a: ")
+b=input("Write b: ")
+S=int(a)*int(b)
+print(S)
+P=2*(int(a)+int(b))
+print(P)
