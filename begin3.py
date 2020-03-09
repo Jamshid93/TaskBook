@@ -1,0 +1,6 @@
+a=input("Write a: ")
+b=input("Write b: ")
+S=float(a)*float(b)
+print(S)
+P=2*(float(a)+float(b))
+print(P)
