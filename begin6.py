@@ -1,0 +1,7 @@
+a=input(float())
+b=input(float())
+c=input(float()) 
+V=float(a)*float(b)*float(c)
+S=2*((float(a)*float(b))+(float(a)*float(c))+(float(b)*float(c)))
+print(V)
+print(S)
