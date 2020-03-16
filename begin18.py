@@ -1,0 +1,7 @@
+A=float(input("A= "))
+B=float(input("B= "))
+C=float(input("C= "))
+AC=abs(A-C)
+BC=abs(C-B)
+product=(AC*BC)
+print(product)
