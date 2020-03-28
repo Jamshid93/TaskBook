@@ -1,0 +1,7 @@
+x=float(input("x= "))
+y=float(input("y= "))
+x1=float(input("x1= "))
+y1=float(input("y1= "))
+x2=float(input("x2= "))
+y2=float(input("y2= "))
+print((x1<x)and (x<x2)and (y2<y)and (y<y1))

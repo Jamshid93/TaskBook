@@ -1,0 +1,6 @@
+A=int(input("A= "))
+hundred=int(A/100)
+tens=int(A/10%10)
+ones=int(A%10)
+print(hundred+tens+ones)
+print(hundred*tens*ones)

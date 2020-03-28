@@ -1,0 +1,5 @@
+A=float(input("A= "))
+B=float(input("B= "))
+C=float(input("C= "))
+D=float((B*B)-4*A*C)
+print(D>=0)
