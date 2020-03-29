@@ -1,4 +1,4 @@
-g_suit = {
+_suit = {
     1 : 'spades',
     2 : 'clubs',
     3 : 'diamons',
