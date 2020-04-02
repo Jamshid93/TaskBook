@@ -1,4 +1,4 @@
-import random
+
 import math
 
 r = {1 : "side a", 2 : "radius R1 of inscribed circle", \
